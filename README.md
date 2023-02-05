@@ -7,7 +7,7 @@
 - Frontend web development (React.Js, JavaScript, HTML5, CSS, Bootstrap)
 - Houseplants (Bonsai, Monstera, Colocasia, Alocasia enthusiast :evergreen_tree:)
 
-## Curious About 
+## Areas of Interest 
 - Deep Learning and Machine Learning
 - Cloud Architecture
 - Gamified Learning
@@ -22,7 +22,7 @@
 <!-- ## 💻 Current project
 - [financial-go](https://github.com/Jvillegasd/financial-go) -->
 
-## 📚 Learning
+## 📚 Currently Studying
 - Python, Docker, PyGame
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=switch86&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
