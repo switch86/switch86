@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">A software engineer living in the San Francisco Bay Area</h3>
-<div id="badges">
+<div id="badges" align-"center">
   <a href="https://www.linkedin.com/in/berloven">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
