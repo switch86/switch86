@@ -1,19 +1,30 @@
 ### 
+<h1 align="center">Hi 👋, I'm Noah</h1>
+<h3 align="center">A software engineer living in the San Francisco Bay Area</h3>
 
-<!--
-**switch86/switch86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Backend web development (MongoDB, Mongoose, Node.js)
+- Frontend web development (React.Js, JavaScript, HTML5, CSS, Bootstrap)
+- Houseplants (Bonsai, Monstera, Colocasia, Alocasia enthusiast :evergreen_tree:)
 
-Here are some ideas to get you started:
+## Curious About 
+- Deep Learning and Machine Learning
+- Cloud Architecture
+- Gamified Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 Hobbies
+- Solve programming problems
+- Puzzles, legos and boardgames 
+- Camping, hiking, fishing 
+- Read science fiction novels
+- Play videogames
+- etc...
+<!-- ## 💻 Current project
+- [financial-go](https://github.com/Jvillegasd/financial-go) -->
+
+## 📚 Learning
+- Python, Docker, PyGame
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=switch86&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 <div id="header" align="center">
