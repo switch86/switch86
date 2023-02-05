@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy-downsized-large.gif" width="100" borderRadius="10px" alt="construction worker putting the last puzzle piece to complete the sky, then sliding down the ladder" />
 </div>
