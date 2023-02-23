@@ -16,9 +16,10 @@
 ## 💬 Ask me about
 - Backend web development (MongoDB, Mongoose, Node.js)
 - Frontend web development (React.Js, JavaScript, HTML5, CSS, Bootstrap)
-- Houseplants (Bonsai, Monstera, Colocasia, Alocasia enthusiast :evergreen_tree:)
+- Artificial Intelligence
 
 ## :sparkles: Areas of Interest 
+- Houseplants ZA#                             (:evergreen_tree:)
 - Deep Learning and Machine Learning
 - Cloud Architecture
 - Gamified Learning
@@ -39,3 +40,5 @@
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/WRua0IqFZzYAGhNAc0/giphy-downsized-large.gif" width="100" borderRadius="10px" alt="construction worker putting the last puzzle piece to complete the sky, then sliding down the ladder" />
 </div> -->
+
+
