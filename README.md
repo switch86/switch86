@@ -17,19 +17,14 @@
 - Backend web development (MongoDB, Mongoose, Node.js)
 - Frontend web development (React.Js, JavaScript, HTML5, CSS, Bootstrap)
 - Artificial Intelligence/Machine Learning
-
-## :sparkles: Areas of Interest 
-- Houseplants ZA#                             (:evergreen_tree:)
-- Deep Learning and Machine Learning
-- Cloud Architecture
-- Gamified Learning
+- Game Development/Gamified Learning 
 
 ## 📅 Hobbies
+- Houseplants (:evergreen_tree:)
 - Solve programming problems
-- Puzzles, legos and boardgames 
+- Puzzles, legos, and games 
 - Camping, hiking, fishing 
-- Read science fiction novels
-- Play videogames
+- Science fiction novels
 - etc...
 <!-- ## 💻 Current project
 - [financial-go](https://github.com/Jvillegasd/financial-go) -->
