@@ -16,7 +16,7 @@
 ## 💬 Ask me about
 - Backend web development (MongoDB, Mongoose, Node.js)
 - Frontend web development (React.Js, JavaScript, HTML5, CSS, Bootstrap)
-- Artificial Intelligence
+- Artificial Intelligence/Machine Learning
 
 ## :sparkles: Areas of Interest 
 - Houseplants ZA#                             (:evergreen_tree:)
