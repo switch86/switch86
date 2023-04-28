@@ -20,7 +20,7 @@
 - Universal Design 
 
 ## 📅 Hobbies
-- Cultivation, propagation, or alliteration! (:evergreen_tree:)🤓
+- Cultivation, propagation, or alliteration! :evergreen_tree:🤓
 - Puzzles, legos, and games 
 - Camping, hiking, fishing, climbing
 - etc...
