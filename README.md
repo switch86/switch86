@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 <h1 align="center">Hi, I'm Noah 👋</h1>
-<h3 align="center">A Full Stack Software Engineer based in the San Francisco Bay Area</h3>
+<h3 align="center">Full Stack Software Engineer based in the San Francisco Bay Area</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/berloven">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,7 +20,7 @@
 - Universal Design 
 
 ## 📅 Hobbies
-- Plants! (:evergreen_tree:)
+- Cultivation, propagation, or alliteration! (:evergreen_tree:)🤓
 - Puzzles, legos, and games 
 - Camping, hiking, fishing, climbing
 - etc...
