@@ -2,7 +2,7 @@
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
-<h1 align="center">Hi, I'm Noah 👋</h1>
+<h1 align="center">Hi, I'm Noah :love_you_gesture::rainbow:</h1>
 <h3 align="center">Full Stack Software Engineer based in the San Francisco Bay Area</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/berloven">
@@ -13,23 +13,23 @@
   </a>
 </div>
 
-## 💬 Let's Talk About
-- Artificial Intelligence/Machine Learning - Practical Applications for Real World Impact 🤖💻
-- Universal Design 🦾♿️🤟🏻
+## :speech_balloon: Let's Talk About
+- Artificial Intelligence/Machine Learning - Practical Applications for Real World Impact :robot::computer:
+- Universal Design :mechanical_arm::wheelchair::love_you_gesture:
 
 
-## 📅 Hobbies
-- Cultivation, propagation, and alliteration! 🌲🍀🌿🤓
-- Puzzles, legos, and games 🃏🎲♠️♣️
-- Camping, hiking, fishing, climbing 🏕️🥾
+## :date: Hobbies
+- Cultivation, propagation, and alliteration! :evergreen_tree::four_leaf_clover::herb::nerd_face:
+- Puzzles, legos, and games :black_joker::game_die::space_invader::8ball:
+- Camping, hiking, fishing, climbing :camping::hiking_boot:
 
-## 🏆 Achievements
+## :trophy: Achievements
 - Recieved "Best Diversity Project" award at Power to Fly Diversity Hackathon 
 - Certificate of Completion - Full Stack Web Development Program, V School
 
 ## **Development Tools:** <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
-<!-- ## 💻 Current project
+<!-- ## :computer: Current project
 - [financial-go](https://github.com/Jvillegasd/financial-go) -->
 
 <!-- ## :bar_chart: GitHub Stats
