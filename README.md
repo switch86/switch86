@@ -14,7 +14,7 @@
 </div>
 
 ## :speech_balloon: Let's Talk About
-- Artificial Intelligence/Machine Learning - Practical Applications for Real World Impact :robot::computer:
+- Artificial Intelligence/Machine Learning (AI/ML) - Practical Applications for Real World Impact :robot::computer:
 - Universal Design :mechanical_arm::wheelchair::love_you_gesture:
 
 ## :date: Hobbies
