@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 <h1 align="center">Hi, I'm Noah :love_you_gesture::rainbow:</h1>
-<h3 align="center">A Software Engineer based in California</h3>
+<h3 align="center">A Software Engineer based in the San Francisco Bay Area, California</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/berloven">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
